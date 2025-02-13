@@ -1,6 +1,6 @@
 # NCSA Boardgame Challenge with lnwza007 Group 🥷💥  
 
-[ Back to Homepage ](https://witchapolinaksorn.github.io)  
+[ Back to Homepage ](https://srchx.github.io)  
 
 **🤖 Securing Human Topic in Information System Security 🎲**
 
