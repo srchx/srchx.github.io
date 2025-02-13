@@ -6,5 +6,5 @@
 
 <a href="https://plantzaza.github.io/">Chayanon</a>
 
-- <a href="https://srchx.github.io/loop-coverage">Loop-Coverage (cs.odu.edu Glossary)</a>
-
+- Loop-coverage (https://srchx.github.io/loop-coverage)
+- Boardgame (https://srchx.github.io/board-game)
